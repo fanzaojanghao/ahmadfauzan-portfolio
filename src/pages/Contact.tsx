@@ -16,7 +16,7 @@ const Contact = () => {
   const [formData, setFormData] = useState({ name: '', email: '', message: '' });
 
   const socialLinks = [
-    { icon: 'mdi:github', label: 'GitHub', href: 'https://github.com/fanzaojanghao0410' },
+    { icon: 'mdi:github', label: 'GitHub', href: 'https://github.com/fanzaojanghao' },
     { icon: 'mdi:instagram', label: 'Instagram', href: 'https://www.instagram.com/ahmadfauzan.md' },
     { icon: 'mdi:linkedin', label: 'LinkedIn', href: 'https://linkedin.com' },
     { icon: 'mdi:gmail', label: 'Gmail', href: 'mailto:fanzaojanghao@gmail.com' },
